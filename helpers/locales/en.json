@@ -1,0 +1,12 @@
+{
+  "play_searching": "Searching...",
+  "play_added": "Added to queue: {}",
+  "play_now": "Now playing: {}",
+  "skip_done": "Skipped!",
+  "pause_done": "Paused.",
+  "resume_done": "Resumed.",
+  "stop_done": "Stopped and queue cleared.",
+  "queue_empty": "Queue is empty.",
+  "admins_only": "Admins only.",
+  "not_found": "Could not find that song."
+}
