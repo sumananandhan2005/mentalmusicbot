@@ -1,0 +1,7 @@
+pyrogram
+TgCrypto
+pytgcalls
+yt-dlp
+spotipy
+flask
+requests
