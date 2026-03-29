@@ -1,6 +1,6 @@
 pyrogram==2.0.106
 TgCrypto
-pytgcalls==3.0.0.dev29
+pytgcalls==2.1.0
 yt-dlp
 spotipy
 requests
