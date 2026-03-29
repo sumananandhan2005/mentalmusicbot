@@ -19,6 +19,3 @@ register_language(app)
 
 tgcall.start()
 app.run()
-```
-
----
